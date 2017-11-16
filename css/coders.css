@@ -1,0 +1,49 @@
+body{
+  margin: 50px;
+}
+
+section {
+  width: 200px;
+  height: 200px;
+  border: 1px solid #FFF;
+  margin: 20px;
+  float: left;
+}
+
+h2 {
+  font-family: 'Inconsolata', monospace;
+  color: gray;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  opacity: 0.7;
+}
+
+.cuatro{
+  clear: left;
+}
+
+.imagen > div{
+  position: relative;
+  left: 50px;
+	bottom:25px;
+	color:#000;
+	padding:2px 10px;
+	font-family: 'Inconsolata', monospace;
+	font-weight:bold;
+}
+
+.linea {
+  height: 1px;
+  width: 100px;
+  border: 1px solid gray;
+  background: gray;
+
+}
+
+
+/*p {
+  z-index: 99;
+}*/
